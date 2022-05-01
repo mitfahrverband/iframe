@@ -1,16 +1,12 @@
 # iframe
-An &lt;iframe> displaying carpool offers to and from a place on a given day
+An &lt;iframe> displaying aggregated carpool offers from differenct sources to and from a place on a given day
 
-A demo of the `iframe` is running at [https://ridewithukraine.eu/iframe-beispiel.html](https://ridewithukraine.eu/iframe-beispiel.html).
+A demo of the `<iframe>` is running at [https://ridewithukraine.eu/iframe-beispiel.html](https://ridewithukraine.eu/iframe-beispiel.html).
+The `<iframe>` can't be embedded here due to a restriction of [GitHub Flavored Markdown](https://github.github.com/gfm/#disallowed-raw-html-extension-).
 
-Here is a preview of the current version as it is live now:
-
-<iframe src="https://ridewithukraine.eu/iframedemo.php" height="880" width="600"></iframe>
-
-The code for embedding is this:
+The code for embedding the `<iframe>` is:
 
 ```html
 <iframe src="https://ridewithukraine.eu/iframedemo.php" height="880" width="600"></iframe>
 ```
-
 
