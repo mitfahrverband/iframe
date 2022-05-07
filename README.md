@@ -10,7 +10,7 @@ The code for embedding the `<iframe>` is:
 <iframe src="https://ridewithukraine.eu/iframedemo.php" height="850" ></iframe>
 ```
 It is recommened not to include an constant width attribute value. 
-If omitted to defined as width="100%" the iframe content will scale to the available width as good as possible.
+If omitted or better defined as width="100%" the iframe content will scale to the available width as good as possible.
 
 A minimum value for height="840" should be specified to avoid vertical scrollbars for the iframe content.
 
